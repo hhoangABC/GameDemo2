@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: a29a476b108f95744bced53a1246517e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_128
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d9fb2da4ad8048a11582bf11fbb28
+      internalID: 1038215137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_129
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a7028f4f333f645bc6f99d553739e3
+      internalID: -1426534938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_130
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074e376807cb27646a0f9e941a9d68a7
+      internalID: 1671999887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_131
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cb16c1aaec9b34b952191a5d4cf3b9
+      internalID: 86964620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_139
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250f7e1e50ff08448aee08991583e4d
+      internalID: 524689917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_140
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b887e86e8cd1ade4f9031e33aecf3f64
+      internalID: 1025001566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_141
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c3035902d57be478ee049ab990ed63
+      internalID: 1115487317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_142
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebbc3435f5578b4f8a4264344cab903
+      internalID: -2050009969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SPA_Rock_Grass_Water_0: 509803879
+      SPA_Rock_Grass_Water_1: -665889112
+      SPA_Rock_Grass_Water_10: 1098533715
+      SPA_Rock_Grass_Water_100: 26047451
+      SPA_Rock_Grass_Water_101: -114165077
+      SPA_Rock_Grass_Water_102: 125063439
+      SPA_Rock_Grass_Water_103: -1961164038
+      SPA_Rock_Grass_Water_104: -1010422643
+      SPA_Rock_Grass_Water_105: -497074951
+      SPA_Rock_Grass_Water_106: 9116172
+      SPA_Rock_Grass_Water_107: -199660356
+      SPA_Rock_Grass_Water_108: 1985334664
+      SPA_Rock_Grass_Water_109: 1977348200
+      SPA_Rock_Grass_Water_11: -293721546
+      SPA_Rock_Grass_Water_110: 1127598022
+      SPA_Rock_Grass_Water_111: -2109912005
+      SPA_Rock_Grass_Water_112: -350521313
+      SPA_Rock_Grass_Water_113: -1924590740
+      SPA_Rock_Grass_Water_114: 1469641113
+      SPA_Rock_Grass_Water_115: -1121467430
+      SPA_Rock_Grass_Water_116: -148245971
+      SPA_Rock_Grass_Water_117: -1162901855
+      SPA_Rock_Grass_Water_118: -1631151343
+      SPA_Rock_Grass_Water_119: -929058030
+      SPA_Rock_Grass_Water_12: -1454932372
+      SPA_Rock_Grass_Water_120: 497307159
+      SPA_Rock_Grass_Water_121: -1385542699
+      SPA_Rock_Grass_Water_122: 790335098
+      SPA_Rock_Grass_Water_123: 107615212
+      SPA_Rock_Grass_Water_124: 948973691
+      SPA_Rock_Grass_Water_125: 346506741
+      SPA_Rock_Grass_Water_126: 1753480902
+      SPA_Rock_Grass_Water_127: -540730214
+      SPA_Rock_Grass_Water_128: 1038215137
+      SPA_Rock_Grass_Water_129: -1426534938
+      SPA_Rock_Grass_Water_13: 1034534587
+      SPA_Rock_Grass_Water_130: 1671999887
+      SPA_Rock_Grass_Water_131: 86964620
+      SPA_Rock_Grass_Water_132: 1606886755
+      SPA_Rock_Grass_Water_133: 1962351644
+      SPA_Rock_Grass_Water_134: 12550702
+      SPA_Rock_Grass_Water_135: -1962082394
+      SPA_Rock_Grass_Water_136: -1803991996
+      SPA_Rock_Grass_Water_137: -66884539
+      SPA_Rock_Grass_Water_138: -155977890
+      SPA_Rock_Grass_Water_139: 524689917
+      SPA_Rock_Grass_Water_14: 2021917772
+      SPA_Rock_Grass_Water_140: 1025001566
+      SPA_Rock_Grass_Water_141: 1115487317
+      SPA_Rock_Grass_Water_142: -2050009969
+      SPA_Rock_Grass_Water_15: -19220721
+      SPA_Rock_Grass_Water_16: 643339955
+      SPA_Rock_Grass_Water_17: 341181687
+      SPA_Rock_Grass_Water_18: -1614607677
+      SPA_Rock_Grass_Water_19: 199805856
+      SPA_Rock_Grass_Water_2: -1904044172
+      SPA_Rock_Grass_Water_20: 1983911061
+      SPA_Rock_Grass_Water_21: -187176591
+      SPA_Rock_Grass_Water_22: 1834760583
+      SPA_Rock_Grass_Water_23: 1287766542
+      SPA_Rock_Grass_Water_24: -1461455789
+      SPA_Rock_Grass_Water_25: -60184812
+      SPA_Rock_Grass_Water_26: 1547497340
+      SPA_Rock_Grass_Water_27: 570237836
+      SPA_Rock_Grass_Water_28: -920466845
+      SPA_Rock_Grass_Water_29: 1802858604
+      SPA_Rock_Grass_Water_3: 966622201
+      SPA_Rock_Grass_Water_30: -955035064
+      SPA_Rock_Grass_Water_31: 1579168273
+      SPA_Rock_Grass_Water_32: 2081924985
+      SPA_Rock_Grass_Water_33: 2101280051
+      SPA_Rock_Grass_Water_34: -384148400
+      SPA_Rock_Grass_Water_35: 1397835352
+      SPA_Rock_Grass_Water_36: -1554585148
+      SPA_Rock_Grass_Water_37: -2138681433
+      SPA_Rock_Grass_Water_38: -263281266
+      SPA_Rock_Grass_Water_39: 114377996
+      SPA_Rock_Grass_Water_4: -510930960
+      SPA_Rock_Grass_Water_40: -1945121393
+      SPA_Rock_Grass_Water_41: 442499480
+      SPA_Rock_Grass_Water_42: 1425349170
+      SPA_Rock_Grass_Water_43: -1365456023
+      SPA_Rock_Grass_Water_44: 520260420
+      SPA_Rock_Grass_Water_45: -1528804031
+      SPA_Rock_Grass_Water_46: -1598236256
+      SPA_Rock_Grass_Water_47: 557878922
+      SPA_Rock_Grass_Water_48: -1379926275
+      SPA_Rock_Grass_Water_49: 239649711
+      SPA_Rock_Grass_Water_5: -1835321242
+      SPA_Rock_Grass_Water_50: 1470797293
+      SPA_Rock_Grass_Water_51: 1823503616
+      SPA_Rock_Grass_Water_52: -675370500
+      SPA_Rock_Grass_Water_53: -1463603060
+      SPA_Rock_Grass_Water_54: -615443380
+      SPA_Rock_Grass_Water_55: 2112451269
+      SPA_Rock_Grass_Water_56: -1714808806
+      SPA_Rock_Grass_Water_57: -339290587
+      SPA_Rock_Grass_Water_58: 933184947
+      SPA_Rock_Grass_Water_59: 1337589684
+      SPA_Rock_Grass_Water_6: -339998339
+      SPA_Rock_Grass_Water_60: -1488637484
+      SPA_Rock_Grass_Water_61: -9903878
+      SPA_Rock_Grass_Water_62: 757207914
+      SPA_Rock_Grass_Water_63: -735075895
+      SPA_Rock_Grass_Water_64: 2009451914
+      SPA_Rock_Grass_Water_65: 1855086888
+      SPA_Rock_Grass_Water_66: -1520816583
+      SPA_Rock_Grass_Water_67: 1426460110
+      SPA_Rock_Grass_Water_68: -2103815133
+      SPA_Rock_Grass_Water_69: 91737982
+      SPA_Rock_Grass_Water_7: -1987525149
+      SPA_Rock_Grass_Water_70: -612158569
+      SPA_Rock_Grass_Water_71: 1855662999
+      SPA_Rock_Grass_Water_72: -1414293295
+      SPA_Rock_Grass_Water_73: 79723554
+      SPA_Rock_Grass_Water_74: 661683867
+      SPA_Rock_Grass_Water_75: -24331856
+      SPA_Rock_Grass_Water_76: -2004081528
+      SPA_Rock_Grass_Water_77: -363799611
+      SPA_Rock_Grass_Water_78: 2047697768
+      SPA_Rock_Grass_Water_79: -1322190589
+      SPA_Rock_Grass_Water_8: 1177804249
+      SPA_Rock_Grass_Water_80: 771027620
+      SPA_Rock_Grass_Water_81: 1967811506
+      SPA_Rock_Grass_Water_82: 370646454
+      SPA_Rock_Grass_Water_83: 557709193
+      SPA_Rock_Grass_Water_84: 621819452
+      SPA_Rock_Grass_Water_85: 1618732375
+      SPA_Rock_Grass_Water_86: 1415318839
+      SPA_Rock_Grass_Water_87: -1170130954
+      SPA_Rock_Grass_Water_88: 1135610716
+      SPA_Rock_Grass_Water_89: 834676614
+      SPA_Rock_Grass_Water_9: 387375653
+      SPA_Rock_Grass_Water_90: -1655342065
+      SPA_Rock_Grass_Water_91: 877143808
+      SPA_Rock_Grass_Water_92: -1806128445
+      SPA_Rock_Grass_Water_93: 1957408058
+      SPA_Rock_Grass_Water_94: 431757902
+      SPA_Rock_Grass_Water_95: -427930144
+      SPA_Rock_Grass_Water_96: -1929903204
+      SPA_Rock_Grass_Water_97: 1525803295
+      SPA_Rock_Grass_Water_98: 1893401690
+      SPA_Rock_Grass_Water_99: 1660760419
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
